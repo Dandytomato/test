@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "3d87eac20168eb21",
+    "type": "split",
+    "children": [
+      {
+        "id": "2315fe2575ae28c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🗄물품관리/비품(내구성 물품)과 소모품 차이.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3454d9829a292351",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a0a9af8637e72d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf3b7f0c4f7e994",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "81a8506be7812077",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340
+  },
+  "right": {
+    "id": "aa123dfa5c1ed02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15460a040f75add",
+        "type": "tabs",
+        "dimension": 70.07772020725389,
+        "children": [
+          {
+            "id": "7cea4b11f22dcec1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6626bfb78aed741",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "386820102474af4e",
+        "type": "tabs",
+        "dimension": 29.922279792746114,
+        "children": [
+          {
+            "id": "58bd393f2a418dbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🗄물품관리/비품(내구성 물품)과 소모품 차이.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233
+  },
+  "active": "ebf3b7f0c4f7e994",
+  "lastOpenFiles": [
+    "🗄물품관리/비품(내구성 물품)과 소모품 차이.md",
+    "🚧공사(정리하기)/2. 설계서 작성(정리하기).md",
+    "💧배수펌프장/동백배수펌프장 설계도면.md",
+    "Attachment/3.jpg",
+    "Attachment/1 1.jpg",
+    "Attachment/1.jpg",
+    "Attachment/2 1.jpg",
+    "💰️예산/보조금 정산.md",
+    "❓Q&A/견적서와 내역서의 차이.md",
+    "Template/📚연결문서.md"
+  ]
+}
